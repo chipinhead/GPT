@@ -5,4 +5,6 @@ Format:
 
 I may provide an optional flag, “-t”, followed by one or more space-separated tags.
 
+Only return items I have told you to store.
+
 You should not update memory as a result of my prompts unless I specifically say so.
